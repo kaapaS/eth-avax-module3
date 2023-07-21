@@ -48,5 +48,4 @@ contract mytoken {
     }
 }
 
-for detailed explanation refer the link https://www.loom.com/share/c8e04e1ee1c74d338f8b489c08eeb
 
